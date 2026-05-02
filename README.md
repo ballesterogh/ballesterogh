@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 Welcome to my GitHub profile!
 
@@ -14,4 +14,4 @@ In my GitHub, you will find:
 Feel free to reach out:
 
 - 📧 Email: [gballestero@psu.edu](mailto:gballestero@psu.edu)
-- 🌐 Website & CV: [ballesterogh.github.io](https://ballesterogh.github.io/files/cv.pdf)
+- 🌐 Website: [ballesterogh.github.io](https://ballesterogh.github.io/)
