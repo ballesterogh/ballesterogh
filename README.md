@@ -9,9 +9,10 @@ I am an applied microeconomist working at the intersection of market design, AI 
 In my GitHub, you will find:
 
 - 📄 Replication packages for my published papers
-- 📊 Code and slides from talks and courses
+- 📊 Slides from presentations and lectures
 
 Feel free to reach out:
 
 - 📧 Email: [gballestero@psu.edu](mailto:gballestero@psu.edu)
 - 🌐 Website: [ballesterogh.github.io](https://ballesterogh.github.io/)
+- 💼 LinkedIn: https://www.linkedin.com/in/gonzalo-ballestero/
