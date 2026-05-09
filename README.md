@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I am Gonzalo Ballestero, a Ph.D. candidate in Economics at Penn State University.
 
-I am an applied microeconomist working at the intersection of empirical market design, economics of AI, and industrial organization.
+I am an applied microeconomist working on industrial orgnanization, market design, and economics of AI.
 
 In my GitHub, you will find:
 
